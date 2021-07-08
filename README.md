@@ -1,6 +1,2 @@
-# Gihub and Markdown
-
-## What I learned
-
-> These are what I learned about github and markdown from the lecture.
-
+# TIL
+매일 매일 배운 내용 정리하기!

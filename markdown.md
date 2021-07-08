@@ -61,6 +61,15 @@ $ git init
 | 김철수 | 40   |      |
 | 최영희 | 20   |      |
 
+## 이미지
+
+![1](C:/Users/campusseven02/Desktop/1.jpg)
+
+* typora에 아래와 같이 설정하면, 상대 경로로 쉽게 이미지 파일을 관리할 수 있다.
+* ![image-20210705133119332](md-images/image-20210705133119332.png)
+
+![1](md-images/1.jpg)
+
 ## 링크
 
 [구글](https://google.com)
