@@ -1,2 +1,8 @@
-# TIL
-매일 매일 배운 내용 정리하기!
+# Git / Github
+
+### (Just for reference)
+
+* What is "git"
+* How to use "github"
+* How to use "markdown"
+
